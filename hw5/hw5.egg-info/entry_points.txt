@@ -1,0 +1,5 @@
+      [paste.app_factory]
+      main = hw5:main
+      [console_scripts]
+      initialize_hw5_db = hw5.scripts.initializedb:main
+      
